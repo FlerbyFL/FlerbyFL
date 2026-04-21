@@ -1,16 +1,39 @@
-## Hi there 👋
+### hey, i'm flerby
 
-<!--
-**FlerbyFL/FlerbyFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+student · building things with Go and Linux
 
-Here are some ideas to get you started:
+![stats](https://github-readme-stats.vercel.app/api?username=FlerbyFL&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**stack**
+
+```
+Go           ████████░░   backend, CLIs, APIs
+Linux        ███████░░░   VPS, nginx, UFW, systemd
+React / Vite ████░░░░░░   frontend when needed
+```
+
+---
+
+**projects**
+
+| repo | what it is |
+|------|-----------|
+| [1-search](https://github.com/FlerbyFL/1-search) | personal web project — Vite + React frontend, Go backend |
+
+---
+
+**setup**
+
+- VPS on Ubuntu (Germany)
+- self-hosted: nginx, UFW, custom Go services
+- currently learning: distributed systems, networking
+
+---
+
+*learning in public. breaking things on purpose.*
+
+---
+
+**contact** · tg: [@FlerbyFL](https://t.me/FlerbyFL)
